@@ -12,9 +12,35 @@ body{
 }
 .container{
     display: flex;
-    flex-direction: row;
 }
-.button{
-    height: 200;
-    width: 300;
+h3{
+    height: 25px;
+    width: 300px;
+}
+a{
+    color: white;
+}
+.Any_worldpeace{
+    display: flex;
+    justify-content: space-around;
+}
+.darkside_darkerside{
+    display: flex;
+    justify-content: space-around;
+}
+.Allmoons_100{
+    display: flex;
+    justify-content: space-around;
+}
+.top{
+    display: flex;
+    justify-content: space-evenly;
+}
+.speedrun_com{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    display: flex;
+    flex-direction: column;
 }
