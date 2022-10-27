@@ -57,4 +57,12 @@ a{
 }
 table{
     color: white;
+    border: 1px solid white;
+    border-collapse: collapse;
+    height: 500px;
+    width: 700px;   
+}
+th,td{
+    border: 1px solid white;
+    border-collapse: collapse;
 }
