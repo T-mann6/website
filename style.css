@@ -56,6 +56,7 @@ a{
     white-space: nowrap;
 }
 table{
+    justify-content: center;
     color: white;
     border: 1px solid white;
     border-collapse: collapse;
@@ -65,4 +66,28 @@ table{
 th,td{
     border: 1px solid white;
     border-collapse: collapse;
+}
+
+.season_12{
+    display:flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.season_34{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.season_56{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.trailers{
+    display: flex;
+    flex-direction: column;
+}
+.table{
+    display: flex;
+    justify-content: center;
 }
