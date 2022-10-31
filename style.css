@@ -87,7 +87,3 @@ th,td{
     display: flex;
     flex-direction: column;
 }
-.table{
-    display: flex;
-    justify-content: center;
-}
